@@ -2,7 +2,7 @@
 
 Each project in new branch
 
-## Счётчик
+## Counter
 
 **🌿 Branch**: `counter`
 ## Modal Window
